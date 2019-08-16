@@ -53,6 +53,10 @@ git config --global user.email "tomas.weis@ntig.se"
 
 ![img](https://gyazo.com/c37f79ef51ff1f14b3b2d9249702ca4f.png)
 
-8. För att det ska fungera felfritt måste du starta om din dator.
+8. VIKTIGT: Boka ur "Keep this code private"!
 
-9. Klart! Nu kan du använda Git och GitHub Desktop på din dator.
+![img](https://gyazo.com/5c02447a718331d460b89284af45e8dc.png)
+
+9. För att det ska fungera felfritt måste du starta om din dator.
+
+10. Klart! Nu kan du använda Git och GitHub Desktop på din dator.
