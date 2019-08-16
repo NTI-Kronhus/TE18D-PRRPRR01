@@ -43,6 +43,6 @@ git config --global user.email "tomas.weis@ntig.se"
 4. I GitHub Desktop navigera nu till inställnigar <br>
     *File->Options->Advanced* <br>
     och välj Git Bash i drop-down fältet för Shell.<br>
-![img](https://gyazo.com/e905ef81a857a075e626ea09ddf9e15e.png)
+![img](https://gyazo.com/d8e466e57d2a41b1ba39a6d74d2369fe.png)
 5. För att det ska fungera felfritt måste du starta om din dator.
 6. Klart! Nu kan du använda Git och GitHub Desktop på din dator.
