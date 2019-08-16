@@ -37,10 +37,10 @@ git config --global user.email "tomas.weis@ntig.se"
 2. Starta exe-filen så kör installationen sig självt.
 3. När installationen är klar, logga in med ditt GitHub-konto på GitHub Desktop.
 4. Du behöver nu skaffa dig ett så kallat repo, som är stället där alla dina filer och kod hamnar.
-[!img](https://gyazo.com/399b549c039f52d5c2700a83fa142eff.png)
+![img](https://gyazo.com/399b549c039f52d5c2700a83fa142eff.png)
   Använd ditt användarnamn i GitHub för enkelhetens skull
-[!img](https://gyazo.com/c81f15b5132f9cdeab0f742aef69c9c0.png)
-4. I GitHub Desktop navigera nu till inställnigar <br>
+![img](https://gyazo.com/c81f15b5132f9cdeab0f742aef69c9c0.png)
+5. I GitHub Desktop navigera nu till inställnigar <br>
     *File->Options->Advanced* <br>
     och välj Git Bash i drop-down fältet för Shell.<br>
 ![img](https://gyazo.com/d8e466e57d2a41b1ba39a6d74d2369fe.png)
