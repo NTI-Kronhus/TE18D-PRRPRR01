@@ -53,7 +53,7 @@ git config --global user.email "tomas.weis@ntig.se"
 
 ![img](https://gyazo.com/c37f79ef51ff1f14b3b2d9249702ca4f.png)
 
-8. VIKTIGT: Boka ur "Keep this code private"!
+8. VIKTIGT: Bocka ur "Keep this code private"!
 
 ![img](https://gyazo.com/5c02447a718331d460b89284af45e8dc.png)
 
