@@ -14,7 +14,6 @@ public class lektion1 {
 		
 		System.out.println("Svar: " + heltal1*heltal1); // Skriver ut produkten
 														// + tecknet kallas konkatinera
-		
 		double pi = 3.14;
 		int radie = 5;
 		
