@@ -8,11 +8,12 @@ public class lektion1 {
 		 */
 		
 		int heltal1 = 25; // skapar en låda som heter heltal1 och fyller den med ett heltal
-		int svar; // deklarera
+		int svar; // deklarerar variabeln svar
 		
 		svar = heltal1*heltal1;
 		
-		System.out.println("Svar: " + heltal1*heltal1); // + tecknet kallas konkatinera
+		System.out.println("Svar: " + heltal1*heltal1); // Skriver ut produkten
+														// + tecknet kallas konkatinera
 		
 		double pi = 3.14;
 		int radie = 5;
