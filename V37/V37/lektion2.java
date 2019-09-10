@@ -20,7 +20,7 @@ public class lektion2 {
 		
 		String namn5 = input.nextLine();
 		
-		System.out.println("\nNAMN:");
+		System.out.println("\n\tNAMN:");
 		System.out.println(namn1 + "\n" + namn2 + "\n" + namn3 + "\n" + namn4 + "\n" + namn5);
 		
 		
