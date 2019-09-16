@@ -1,5 +1,3 @@
-package V37;
-
 import java.util.Scanner; // behövs om man vill ha input
 
 public class lektion2 {
