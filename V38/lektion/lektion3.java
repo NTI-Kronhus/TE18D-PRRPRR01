@@ -31,6 +31,7 @@ public class lektion3 {
 		}
 
 		else { // om villkoret inte uppfylls körs else
+			
 			System.out.println("Tyvärr, du får vänta ett tag till!");
 			
 		}
