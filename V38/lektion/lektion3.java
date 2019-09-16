@@ -6,12 +6,7 @@ public class lektion3 {
 
 	public static void main(String[] args) {
 
-		// villkor
-
-		boolean again = true;
-		int svar = 1;
 		int age = 0; // initierat variabel
-		int svar2 = 0;
 
 		Scanner input = new Scanner(System.in); // gör det möjligt att få input från konsolen
 
