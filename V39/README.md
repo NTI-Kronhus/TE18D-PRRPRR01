@@ -17,8 +17,8 @@ xx
 xxx
 xxxx
 ```
-8. Skapa ett program som skriver ut alla jämna tal mellan 100-1000
-9. Skapa ett program som läser in ett heltal och skriver ut talet i fakultet.
+8. Skapa ett program som skriver ut alla jämna heltal mellan 100-1000
+9. Skapa ett program som läser in ett positivt heltal och skriver ut talet i fakultet.
 
 SVÅR:
 Skapa ett program som skriver ut de första 10 talen i fibonacci-serien.
