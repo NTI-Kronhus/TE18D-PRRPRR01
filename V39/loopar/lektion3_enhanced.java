@@ -36,7 +36,7 @@ public class lektion3_enhanced {
 			}
 
 			System.out.println();
-			System.out.println("Would you like to play again? \nPress '1' for yes, '2' for no");
+			System.out.println("Would you like to play again? \nPress '1' for yes, any other integer for no");
 
 			replay = input.nextInt();
 

@@ -10,7 +10,7 @@ public class for_loop {
 		for (int i = 0; i < 5; i++) {
 			System.out.println(i);			
 		}
-	
+
 		// Skriver ut 5-1
 		for (int i = 5 ; i > 0; i--) {
 			System.out.println(i);
