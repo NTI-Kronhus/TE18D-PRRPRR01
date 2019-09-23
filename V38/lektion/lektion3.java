@@ -6,21 +6,21 @@ public class lektion3 {
 
 	public static void main(String[] args) {
 
-		int alder = 0; // initierat variabel
+		int age = 0; // initierat variabel
 
-		Scanner input = new Scanner(System.in); // gör det möjligt att få input från konsolen
+		Scanner input = new Scanner(System.in);
 
 		System.out.println("Hur gammal är du?");
-		alder = input.nextInt();
+		age = input.nextInt();
 
-		if (alder >= 18) { // (villkor) dvs man jämför i detta fal två heltal
+		if (age >= 18) { // (villkor) dvs man jämför i detta fal två heltal
 
 			System.out.println("Du är gammal nog att köra bil! Grattis din jävel!");
 			System.out.println("Bara så du vet så får du åka moppe också!");
 
 		}
 
-		else if (alder > 14 && alder < 18) {
+		else if (age > 14 && age < 18) {
 
 			System.out.println("Du är för ung för att köra bil men du får åka moppe!");
 		}
