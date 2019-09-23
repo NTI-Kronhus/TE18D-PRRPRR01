@@ -4,7 +4,7 @@
 
 ## Lektionsuppgifter
 
-1. Skapa ett program som skriver ut summan av alla heltal under 100.
+1. Skapa ett program som skriver ut summan av alla positiva heltal under 100.
 2. Skapa ett program som skriver ut alla heltal från 25-50.
 3. Skapa ett program som skriver ut alla heltal under 20 i omvänd ordning.
 4. Skapa ett program som läser in ett heltal under 10 och skriver ut alla tal i siffrans gångertabell.
