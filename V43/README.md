@@ -1,4 +1,4 @@
-## Lektionsuppgifter och läxa 5 v44
+## Lektionsuppgifter och läxa 5 v43
 Uppgifterna denna veckan är att skapa några enkla **metoder**. Ni ska alltså **inte** skriva någon kod i er main-metod, förutom anrop till de metoder ni skapar. 
 
 1. Skapa en metod ```lol()``` som enbart **skriver ut** texten: HAHAHAHAHAHAHA.
