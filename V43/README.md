@@ -2,9 +2,9 @@
 Uppgifterna denna veckan är att skapa några enkla **metoder**. Ni ska alltså **inte** skriva någon kod i er main-metod, förutom anrop till de metoder ni skapar. 
 
 1. Skapa en metod ```lol()``` som enbart **skriver ut** texten: HAHAHAHAHAHAHA.
-2. Skapa en metod ```min(int a, int b)``` som ska ta in två heltal och **returnera** den minsta.
+2. Skapa en metod ```max(int a, int b)``` som ska ta in två heltal och **returnera** den största.
 3. Skapa en metod ```count(int n)``` som ska ta in en siffra ```n``` och **skriva ut** alla siffror från 1-```n```.
-4. Skapa en metod ```kelvin(double celcius)``` som tar in en temperatur i grader Celcius och **returnerar** den i grader Kelvin.
+4. Skapa en metod ```kelvin(double celcius)``` som tar in en temperatur i grader Celcius och **returnerar** den i Kelvin.
 ```java
 double kelvinToCelsius(double kelvin)
 kelvinToCelsius(0) => -273.15
