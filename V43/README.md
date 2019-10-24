@@ -4,7 +4,7 @@ Uppgifterna denna veckan är att skapa några enkla **metoder**. Ni ska alltså 
 1. Skapa en metod ```lol()``` som enbart **skriver ut** texten: HAHAHAHAHAHAHA.
 2. Skapa en metod ```max(int a, int b)``` som ska ta in två heltal och **returnera** den största.
 3. Skapa en metod ```count(int n)``` som ska ta in en siffra ```n``` och **skriva ut** alla siffror från 1-```n```.
-4. Skapa en metod ```kelvinToCelsius(double celcius)``` som tar in en temperatur i grader Kelvin och **returnerar** den i Celsius.
+4. Skapa en metod ```kelvinToCelsius(double kelvin)``` som tar in en temperatur i grader Kelvin och **returnerar** den i Celsius.
 ```java
 double kelvinToCelsius(double kelvin)
 kelvinToCelsius(0) => -273.15
