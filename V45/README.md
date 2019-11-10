@@ -7,7 +7,7 @@ Precis som alla tidigare uppgifter ska den pushas till GitHub, och länken lämn
 **DEADLINE 25/11, innan lektionen**
 
 ### Uppgiftsbeskrivning
-Ni ska **skapa ett antal metoder** som räknar ut olika saker baserat på de värden de får in. Exakt vilka metoder ni ska ha med står längre ned i uppgiften.
+Ni ska **skapa ett antal metoder** som räknar ut olika saker baserat på de värden de får in.
 
 ### Metoder som skall finnas med:
 Dina metoder ska vara kommenterade med vanliga Javadoc. <br><br>
