@@ -26,7 +26,7 @@ kelvinToCelsius(0) => -273.15
 
 4. En metod som omvandlar km/h till m/s.
 ```java
-double velocityCoversion(double velocityKmH)
+double velocityConversion(double velocityKmH)
 velocityConversion(90) => 25
 ```
 
