@@ -85,7 +85,7 @@ double sphereVolumeToRadius(double Volume)
 sphereVolumeToRadius(20) => 1.684 
 ```
 
-Gör ytterligare två EGNA metoder på samma sätt som ovan!
+14. Gör ytterligare två EGNA metoder på samma sätt som ovan!
 
 
 
