@@ -73,7 +73,7 @@ double work(double force, double distance)
 work(50,10) => 500
 ```
 
-12. En metod som räknar ut hur högt ett föremål med en viss hastighet uppåt kommer.
+12. En metod som räknar ut hur högt ett föremål med en viss hastighet uppåt kommer. Använd lagen om energins bevarande.
 ```java
 double velocityToHeight(double velocity)
 velocityToHeight(9.82) => 4.91 
