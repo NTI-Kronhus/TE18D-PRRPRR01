@@ -55,7 +55,7 @@ String smallLetters(String word)
 smallLetters("PaParaZZi") => paparazzi
 ```
 
-9. En metod som tar in strängen "Jag vill bli godkänd i programmering!", byter ut alla små bokstäver till stora och byter ut alla o till 0.
+9. En metod som tar in strängen "Jag vill bli godkänd i programmering! <3", byter ut alla små bokstäver till stora och byter ut alla o till 0.
 ```java
 String pr0grammering(String word)
 smallLetters("Jag vill bli godkänd i programmering! <3") => JAG VILL BLI G0DKÄND I PR0GRAMMERING! <3
