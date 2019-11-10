@@ -9,17 +9,6 @@ Precis som alla tidigare uppgifter ska den pushas till GitHub, och länken lämn
 ### Uppgiftsbeskrivning
 Ni ska **skapa ett antal metoder** som räknar ut olika saker baserat på de värden de får in. Exakt vilka metoder ni ska ha med står längre ned i uppgiften.
 
-
-
-### Konstanter som skall finnas med i ditt Bibliotek:
-```java
-G - Gravitationskonstanten.
-R - Almänna gaskonstanten.
-p_0 - lufttrycket vid havsytan.
-c - Ljusets hastighet i vakum.
-g_swe - Tyngdaccelerationen för Sverige.
-```
-
 ### Metoder som skall finnas med:
 Dina metoder ska vara kommenterade med vanliga kommentarer (och Javadoc om du siktar på högre betyg). <br><br>
 1. En metod som gör om grader fahrenheit till kelvin.
@@ -68,7 +57,7 @@ smallLetters("PaParaZZi") => paparazzi
 10. En metod som tar in strängen "Jag vill bli godkänd i programmering!", byter ut alla små bokstäver till stora och byter ut alla o till 0.
 ```java
 String pr0grammering(String word)
-smallLetters("Jag vill bli godkänd i programmering!") => JAG VILL BLI G0DKÄND I PR0GRAMMERING!
+smallLetters("Jag vill bli godkänd i programmering! <3") => JAG VILL BLI G0DKÄND I PR0GRAMMERING! <3
 ```
 
 
