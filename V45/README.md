@@ -79,7 +79,13 @@ double velocityToHeight(double velocity)
 velocityToHeight(9.82) => 4.91 
 ```
 
-13. Gör ytterligare tre EGNA metoder på samma sätt som ovan!
+13. Räkna ut radien hos en sfär som har en viss volym.
+```java
+double sphereVolumeToRadius(double Volume)
+sphereVolumeToRadius(20) => 1.684 
+```
+
+Gör ytterligare två EGNA metoder på samma sätt som ovan!
 
 
 
