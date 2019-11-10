@@ -10,7 +10,7 @@ Precis som alla tidigare uppgifter ska den pushas till GitHub, och länken lämn
 Ni ska **skapa ett antal metoder** som räknar ut olika saker baserat på de värden de får in.
 
 ### Metoder som skall finnas med:
-Dina metoder ska vara kommenterade med Javadoc. <br><br>
+Dina metoder ska vara kommenterade med **Javadoc**. <br><br>
 
 1. En metod som gör om grader fahrenheit till kelvin.
 ```java
