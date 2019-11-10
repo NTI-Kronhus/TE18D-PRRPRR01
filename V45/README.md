@@ -49,7 +49,7 @@ delta(1,5,10) => 8
 delta(-1,6,10) => 5
 ```
 
-8. En metod som tar in strängen "PaParaZZi" och byter gör alla stora bokstäver till små.
+8. En metod som tar in strängen "PaParaZZi" och byter ut alla stora bokstäver till små.
 ```java
 String smallLetters(String word)
 smallLetters("PaParaZZi") => paparazzi
