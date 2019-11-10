@@ -1,6 +1,6 @@
 # Inlämmningsuppgift MethodLibrary
 
-Den här inlämningsuppgiften är en lite större uppgift, som vi ska jobba med i nästkommande 2 veckor. 
+Den här inlämningsuppgiften är en lite större uppgift, som vi ska jobba med under 2 veckor. 
 
 Precis som alla tidigare uppgifter ska den pushas till GitHub, och länken lämnas in på Classroom.
 
