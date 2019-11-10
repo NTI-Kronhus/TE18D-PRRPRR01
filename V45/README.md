@@ -1,6 +1,6 @@
 # Inlämmningsuppgift MethodLibrary
 
-Den här inlämningsuppgiften är en lite större uppgift, som vi ska jobba med under 2 veckor. Syftet med uppgiften är att bli bekväm med att använda metoder och vet hur man kan använda sig utav inbyggda metodbibliotek för strängar och matematik.
+Den här inlämningsuppgiften är en lite större uppgift, som vi ska jobba med under 2 veckor. Syftet med uppgiften är att bli bekväm med att använda metoder och veta hur man kan använda sig utav inbyggda metodbibliotek för strängar och matematik.
 
 Precis som alla tidigare uppgifter ska den pushas till GitHub, och länken lämnas in på Classroom.
 
