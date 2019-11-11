@@ -15,7 +15,7 @@ Dina metoder ska vara kommenterade med **Javadoc**. <br><br>
 1. En metod som gör om grader fahrenheit till kelvin.
 ```java
 double fahrenheitToKelvin(double fahrenheit)
-fahrenheitToCelsius(100) => 310.93
+fahrenheitToKelvin(100) => 310.93
 ```
 
 2. En metod som gör om kelvin till grader celcius.
