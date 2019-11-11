@@ -89,4 +89,4 @@ sphereVolumeToRadius(20) => 1.684
 
 
 
-# Inlämning sker senast söndag den 25/11 via Classroom
+# Inlämning sker senast måndag den 25/11 via Classroom
