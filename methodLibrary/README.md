@@ -45,7 +45,7 @@ potentialEnergy(2,5) => 98.2
 7. En metod som räknar ut medelvärde mellan tre givna värden.
 ```java
 double delta(double first, double second, double last)
-delta(1,5,10) => 8
+delta(1,5,9) => 5
 delta(-1,6,10) => 5
 ```
 
