@@ -1,9 +1,9 @@
+import java.util.Arrays;
 import java.util.Scanner;
 
-public class provaSjalv{
-	
+public class arrayer2 {
 
-public static void main(String[] args) {
+	public static void main(String[] args) {
 
 		Scanner input = new Scanner(System.in);
 		int[] siffror1 = { 1, 2, 3, 4, 5, 6, 7, 8, 9, 10 }; // skapar en array och
@@ -39,3 +39,5 @@ public static void main(String[] args) {
 		}
 */
 	}
+
+}
