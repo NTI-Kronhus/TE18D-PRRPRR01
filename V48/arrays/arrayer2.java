@@ -25,7 +25,7 @@ public class arrayer2 {
 			System.out.print(i + ", ");
 			
 		}
-/*		for (int i = 0; i < siffror1.length; i++) { // loopar genom siffror1[]
+		for (int i = 0; i < siffror1.length; i++) { // loopar genom siffror1[]
 													// och skriver ut innehållet
 			System.out.print(siffror1[i]);
 
@@ -37,7 +37,7 @@ public class arrayer2 {
 			System.out.print(i);
 			
 		}
-*/
+
 	}
 
 }
