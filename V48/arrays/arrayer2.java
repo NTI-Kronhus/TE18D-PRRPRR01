@@ -1,3 +1,5 @@
+package arrays;
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -16,12 +18,12 @@ public class arrayer2 {
 			siffror2[i] = input.nextInt();
 		}
 		
-		for (int i = 0; i < summa.length; i++) {
+		for (int i = 0; i < summa.length; i++) { //räknar ut en summa av två arrays
 			summa[i] = siffror1[i] + siffror2[i];
 			
 		}
 
-		for (int i : summa) { //ett annat sätt att använda for-loop för arrayer
+		for (int i : summa) { //ett annat sätt att skriva ut arrayer med sk foreach loop
 			System.out.print(i + ", ");
 			
 		}
