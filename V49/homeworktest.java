@@ -22,8 +22,8 @@ public class homeworktest {
 		// Vilket nummer finns det flest respektive minst utav i numbers?
 
 		System.out.println(mostNumbers(numbers));
-		System.out.println(numberOf7(numbers));
-		System.out.println(numberOfToms(names));
+		//System.out.println(numberOf7(numbers));
+		//System.out.println(numberOfToms(names));
 	}
 
 	private static int mostNumbers(int[] numbers) {
@@ -40,7 +40,7 @@ public class homeworktest {
 
 			if (amount > max) {
 				most = i;
-				amount = max;
+				max = amount;
 			}
 		}
 		return most;
