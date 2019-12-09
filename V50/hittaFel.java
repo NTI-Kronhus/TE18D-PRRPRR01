@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class hittaFel2 {
+public class hittaFel {
 
 	public static void main(String[] args) {
 
