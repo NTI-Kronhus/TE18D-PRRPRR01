@@ -24,7 +24,7 @@ public class hittaFel {
 
 			} catch (Exception e) { // fixar felaktig input
 				input.next(); // behövs för att göra sig av med felaktig input ovan
-				System.out.println("Index must be an integer you idiot"); // eget felmeddelande till användare 
+			//	System.out.println("Index must be an integer you idiot"); // eget felmeddelande till användare 
 				System.out.println(e); // debugging för programmeraren
 			}
 			
@@ -34,7 +34,7 @@ public class hittaFel {
 			System.out.println("Element " + index + " value is: " + numbers[index]);
 
 		} catch (Exception e) { // om input tidigare större än 10 hamnar index out of bounds
-			System.out.println("Array index out of bounds");
+			//System.out.println("Array index out of bounds");
 			System.out.println(e);
 		}
 
