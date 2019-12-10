@@ -1,4 +1,4 @@
-### Läxa tills tisdag (17/12)
+### Läxa tills fredag (20/12)
 
 * Utgå från SwitchCase kodfilen som ni har fått här på github (se ovan) och gör en egen meny med valfritt innehåll!
 * Försök att utveckla den så att användaren avslutar programmet när denne vill. Det innebär att man ska komma åt menyn fler gånger än 1 utan att behöva starta om programmet!
