@@ -4,9 +4,13 @@ public class bubbleSort {
 
 	public static void main(String[] args) {
 
-		int[] numbers = { 1, 2, 5, 3, 5, 7, 0, 4, 3, 6, 9, 7, 10 };
+		int[] numbers = new int[37];
 		boolean swapped;
 		int temp;
+		
+		for (int i = 0; i < numbers.length; i++) { //slumpar 37 heltal mellan 0-1000
+			numbers[i] = (int) (Math.random()*1000);
+		}
 		
 		System.out.println(Arrays.toString(numbers));
 		
@@ -20,7 +24,6 @@ public class bubbleSort {
 					numbers[i] = numbers[i + 1];
 					numbers[i + 1] = temp;
 					swapped = true;
-					System.out.println(Arrays.toString(numbers));
 				}
 
 			}
