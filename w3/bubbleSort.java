@@ -1,15 +1,31 @@
 import java.util.Arrays;
+import java.util.Scanner;
 
 public class bubbleSort {
 
 	public static void main(String[] args) {
+		Scanner input = new Scanner(System.in);
 
-		int[] numbers = new int[37];
+		
 		boolean swapped;
 		int temp;
+		int intervsller;
+		int tal; 
+		int iteratoner = 0;
+		
+		
+		System.out.println("antl tal");
+		tal = input.nextInt();
+		
+		intervsller = input.nextInt()+1;
+		
+		System.out.println("antal intervaller");
+		int[] numbers = new int[tal];
+		
+		
 		
 		for (int i = 0; i < numbers.length; i++) { //slumpar 37 heltal mellan 0-1000
-			numbers[i] = (int) (Math.random()*1000);
+			numbers[i] = (int) (Math.random()*intervsller);
 		}
 		
 		System.out.println(Arrays.toString(numbers));
@@ -25,11 +41,14 @@ public class bubbleSort {
 					numbers[i + 1] = temp;
 					swapped = true;
 				}
-
+				iteratoner ++ ;
+				
+				
 			}
 		} while (swapped);
-		
+		int svar = iteratoner*(tal-1);
 		System.out.println(Arrays.toString(numbers));
+		System.out.println("antal Iterstioner" + svar);
 
 	}
 }
