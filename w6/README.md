@@ -2,7 +2,7 @@
 
 ### Planera - OBS! INGEN KOD ALLS
 * Skriv en stegvis planering om hur ditt program ska gå till.
-* Du får välja hus du vill gå till väga för att skapa planeringen.
+* Du får välja hur du vill gå till väga för att skapa planeringen.
 * Slutprodukten ska vara stegvisa instruktioner hur ditt program ska fungera.
   * Du behöver inte vara extra tydlig med att man måste deklarera variabler etc.
 * Exempel:
