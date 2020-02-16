@@ -16,7 +16,7 @@
     h2. Om rätt: Fortsätt while-loop.
   4. Skriv ut antal poäng.
   ```
-* Du får använda flödesschema om du vill.
+* Du ska använda flödesschema, t ex draw.io
 
 ### Byta planering - BÖRJA KODA
 * Välj en kompis som också är färdig med sin planering för att sedan byta planering med.
