@@ -15,6 +15,7 @@
 	<classpathentry kind="src" path="w03"/>
 	<classpathentry kind="src" path="w7"/>
 	<classpathentry kind="src" path="w11"/>
+	<classpathentry kind="src" path="w12"/>
 	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
