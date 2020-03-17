@@ -38,7 +38,6 @@ public class arrayListIntro {
 		
 		System.out.println(numbers);
 		
-		numbers.
 	}
 	
 }
