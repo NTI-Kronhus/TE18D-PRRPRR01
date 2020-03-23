@@ -1,4 +1,4 @@
-# Slutprojekt - Hänga Gubbe
+# Slutuppgift - Hänga Gubbe
 
 Uppgiften går ut på att du ska skapa ett egenskrivet spel i Java, som går ut på att användaren ska kunna gissa ett ord. Spelet ska vara baserat på input från användaren och skriva ut instruktioner så att användaren ska kunna lyckas gissa ordet. Vet man inte hur Hänga Gubbe spelas kan man kolla på [den här videon](https://www.youtube.com/watch?time_continue=112&v=j-pBzBvJVKc&feature=emb_title).
 
