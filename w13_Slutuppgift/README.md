@@ -1,36 +1,46 @@
-# Planering Slutprojekt Hänga Gubbe
+# Slutprojekt - Hänga Gubbe
 
-Innan du börjar koda själva programmet måste din planering godkännas av mig. Följ instruktionerna nedan när du gör din planering.
+Uppgiften går ut på att ni ska skapa ett egenskrivet spel i java, som går ut på att användaren ska kunna gissa ett ord. Spelet ska vara baserat på input från användaren och skriva ut ledtrådar och instruktioner så att användaren ska kunna lyckas gissa ordet. Vet man inte hur Hänga Gubbe spelas kan man kolla på [den här videon](https://www.youtube.com/watch?time_continue=112&v=j-pBzBvJVKc&feature=emb_title).
 
-När du kodar **måste** du inte följa din planering till punkt och pricka, om du inser att du behöver göra något på ett annat sätt. I så fall skriver du med i din utvärdering vad du gjort annorlunda, och varför.
+Innan ni får börja koda över huvud taget måste ni göra en **planering**. Planeringen ska godkännas av mig, och sedan får ni sätta igång med själva koden.
 
-#### Händelseförlopp
+Uppgiften ska göras **enskilt** och man får vara beredd att i detalj förklara muntligt hur koden fungerar. Kod utan kommentarer och godkänd planering kommer **inte** att godkännas. Man får självklart diskutera uppgiften med varandra och fråga om hjälp om man fastnar men det är **INTE** tillåtet att kopiera varandras kod. Plagiat ger automatiskt underkänt i uppgiften, och all kod utan kommentarer räknas automatiskt som plagiat.
 
-Börja med att göra en tydlig och detaljerad redovisning för händelseförloppet i ditt program. Antingen gör det det med pseudokod eller ett flödesschema. Se exempel på pseudokod och flödesschema för del av ett påhittat fantasyspel nedan.
+###### Följande basfunktionalitet måste varje spel innehålla för att du ska få godkänt:
 
-Exempel på pseudokod:
-```
-1. Hälsa spelaren välkommen.
-2. Be användaren att välja namn.
-3. Be användaren att välja kön.
-4. Be användaren att välja klass.
-5. Be användaren att välja ras.
-6. Starta spelet:
- 6a. Om ras är Dwarf: starta Dwarf-intro section.
- 6b. Om ras är Human: starta Human-intro section.
- .
- .
-7. ...
-```
+* En godkänd planering enligt [dessa instruktioner]().
+* Ett program som fungerar, med följande funktionalitet:
+    * Tydliga instruktioner till användaren om hur spelet går till.
+    * Att spelaren får gissa på en bokstav i taget, tills hen gissat rätt på alla bokstäver i det rätta ordet.
+    * Att spelaren får någon typ av feedback efter varje gissning, med antal **kvarvarande gissningar** samt en **representation av ordet** (med bokstäver man gissat rätt på) på detta sätt: **_r__gr_mm_r_ng**
+* En utvärdering enligt [dessa instruktioner]().
+* Att du följer denna [checklista för inlämningar](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/tree/master/Heml%C3%A4xor/Checklista%20Heml%C3%A4xor).
 
-Exempel på flödesschema:
-![Flödesschema](https://github.com/NTI-Kronhus/TE18C-PRRPRR01/blob/master/Heml%C3%A4xor/Inl%C3%A4mningsuppgift%20Talspelet/Planering/Fl%C3%B6desschema%20exempel.PNG)
+*För bara godkänt krävs det alltså inte att du har någon visuell representation av en gubbe som hängs, utan det räcker med att du talar om hur många gissningar spelaren har kvar.*
 
-#### Övrig Planering
+###### För att nå högre betyg ska även allt eller vissa delar av följande uppfyllas:
 
-Utöver händelseförloppet ska du även planera i detalj hur du ska *strukturera* din kod. Använd punkterna nedan som riktlinje, du får svara på dessa i punktform i din planering.
+* Att du i din kod använder dig av metoder. (Obligatoriskt för att nå högre betyg än E) Hur väl ni använder och motiverar er användning av metoder påverkar hur högt betyg ni får på uppgiften.
 
-* Vilka variabler behöver du och till vilket syfte? Här vill jag ha med variabelnamn, datatyp och en förklaring på vad variabeln är till för - på varje variabel.
-* Vilka olika konstrollstrukturer behövs och till vilket syfte? (Loopar, villkor, etc.) Var så detaljerad som möjligt.
-* Vilken funktionalitet kan (och borde) du skapa metoder av? Här vill jag ha metodnamn, returtyp, eventuella parametrar samt vad metoden ska göra. 
-* Vilka variabler behöver vara åtkomliga inom hela klassen?
+* Förslag på extra funktionalitet: 
+    * Att ordet som ska gissas på något sätt är slumpgenererat i start av varje runda. 
+    * Att spelet inte differentierar mellan stora och små bokstäver vid gissningar.
+    * Att spelet har en meny som låter spelaren välja svårighetsnivå (exempelvis hur långa/svåra ord man får gissa på).
+    * Att spelet kan köras flera gånger utan att spelaren behöver starta om hela applikationen.
+    * Att man kan vara flera spelare. (Som kanske gissar på olika ord? Där en person skriver in ett ord och den andra gissar? Hur ni vill göra är helt upp till er.)
+    * Att man har något spelläge där man skriver in ett eget ord som man ska gissa på.
+    * Att man kan skriva in meningar, där mellanslagen inte räknas med i "ordet".
+    * *(Svårare)* Att man lägger in någon slags ljudeffekter, t.ex. när man gissar rätt/fel, gubben dör, etc.
+    * Valfri annan extra funktionalitet (dubbelkolla med mig först).
+
+* Att du har någon typ av visuell representation av spelförloppet, med en gubbe som hängs, genom något av dessa två förslag:
+    * Att du har en textbaserad visuell representation av en gubbe som hängs, kanske som i [detta exempel](https://gist.github.com/chrishorton/8510732aa9a80a03c829b09f12e20d9c). Detta skrivs då ut i konsolen.
+    * *(Svårare)* Att du använder dig av JavaFX eller någon slags grafisk visuell representation, antingen med bilder eller att du ritar upp gubben med former osv. Jag är inte superhaj på grafik när det gäller programmering längre, så här får ni till största del ta hjälp av Niklas eller internet. Jag rekommenderar att ni försöker göra detta om ni tror att ni klarar av det, eftersom ni kommer hålla på med grafik i Programmering 2 senare, och detta kan ge er ett försprång där.
+
+
+* Att spelet ska kunna köras utan att krascha. Hur du implementerar det är upp till dig.
+
+
+Efter att koden är klar och testad kommer alla få möjlighet att utvärdera sin kod på en lektion.
+
+Inlämningsdeadline: X Y, 23:59. (Färdig planering, kod och utvärdering.)
